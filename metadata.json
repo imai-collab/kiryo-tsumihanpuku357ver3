@@ -1,0 +1,8 @@
+{
+  "name": "詰み反復ドリル357手　ハーフ版",
+  "description": "サイトへを追加\nクリア登録リンク実装",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
